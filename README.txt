@@ -1,12 +1,12 @@
-INFO
+**INFO**
 ---------------------------------------------------------------------------------
-19001606 - K.M.C.M Senevirathne
+### 19001606 - K.M.C.M Senevirathne
 
-USAGE
+**USAGE**
 --------------------------------------------------------------------------------
 Windows: C++
 
-EXPLAINATION
+**EXPLAINATION**
 --------------------------------------------------------------------------------
 This is a string-matching algorithm (case sensitive) to offer the user the ability
 to find a pattern in a text when the pattern contains “wild-cards”. A wild-card is a special
@@ -18,7 +18,7 @@ There are 10 test cases includes in this directory.You can add more text cases b
 
 Files are read line by line.
 
-RUNNING TESTS
+**RUNNING TESTS**
 --------------------------------------------------------------------------------
 
 Output will be stored in the "patternmatch<no>.txt" files.
